@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:16:22:32 +0800] "GET /jms-cli/ HTTP/1.1" 200 632 http-bio-8060-exec-1 1521
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:16:23:41 +0800] "GET /jms-cli/recive HTTP/1.1" 404 949 http-bio-8060-exec-3 6
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:16:23:56 +0800] "GET /jms-cli/receive HTTP/1.1" 405 1045 http-bio-8060-exec-4 5
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:16:24:02 +0800] "POST /jms-cli/receive HTTP/1.1" 200 12 http-bio-8060-exec-5 413
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:17:04:58 +0800] "POST /jms-cli/show HTTP/1.1" 200 9 http-bio-8060-exec-1 859
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:17:06:05 +0800] "POST /jms-cli/show HTTP/1.1" 200 9 http-bio-8060-exec-1 674
+0:0:0:0:0:0:0:1 - - [19/Dec/2017:17:07:22 +0800] "POST /jms-cli/show HTTP/1.1" 200 9 http-bio-8060-exec-1 1731
